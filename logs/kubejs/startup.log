@@ -1,0 +1,23 @@
+[07:51:45] [INIT] KubeJS 2101.7.2-build.295; MC 2101 NeoForge
+[07:51:45] [INIT] Loaded plugins:
+[07:51:45] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[07:51:45] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[07:51:45] [INIT] - com.almostreliable.morejs.Plugin
+[07:51:45] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[07:51:45] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
+[07:51:45] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[07:51:45] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[07:51:45] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[07:51:45] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[07:51:45] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[07:51:45] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[07:51:46] [INFO] Loaded script startup_scripts:block_registry.js in 0.168 s
+[07:51:46] [INFO] Loaded script startup_scripts:item_registry.js in 0.005 s
+[07:51:46] [INFO] Loaded script startup_scripts:better_stacks.js in 0.004 s
+[07:51:46] [INFO] Loaded script startup_scripts:burntime.js in 0.001 s
+[07:51:46] [INFO] startup_scripts:chemical_registry.js#1: Loaded Java class 'mekanism.api.chemical.Chemical'
+[07:51:46] [INFO] startup_scripts:chemical_registry.js#2: Loaded Java class 'mekanism.api.chemical.ChemicalBuilder'
+[07:51:46] [INFO] Loaded script startup_scripts:chemical_registry.js in 0.014 s
+[07:51:46] [INFO] Loaded script startup_scripts:potion_registry.js in 0.005 s
+[07:51:46] [INFO] Loaded 6/6 KubeJS startup scripts in 1.257 s with 0 errors and 0 warnings
+[07:51:46] [INFO] Validated 44 files in kubejs/data/ in 190ms

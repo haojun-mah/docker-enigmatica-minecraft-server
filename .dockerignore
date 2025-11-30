@@ -1,0 +1,11 @@
+# Ignore large game files during build context transfer
+world/
+logs/
+backups/
+crash-reports/
+*.jar
+*.zip
+.git
+.gitignore
+docker-compose.yaml
+Dockerfile

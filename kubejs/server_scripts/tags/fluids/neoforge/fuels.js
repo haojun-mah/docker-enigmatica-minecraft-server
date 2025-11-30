@@ -1,0 +1,21 @@
+ServerEvents.tags('fluid', (event) => {
+    event.get('c:crude_oil').add(['modern_industrialization:crude_oil', 'oritech:still_oil']);
+    event.get('c:ethanol').add(['modern_industrialization:ethanol']);
+    event.get('c:diesel').add(['modern_industrialization:diesel', 'oritech:still_diesel']);
+    event.get('c:biodiesel').add(['modern_industrialization:biodiesel', 'immersiveengineering:biodiesel']);
+    event.get('c:blaze_ember').add(['justdirethings:refined_t2_fluid_source']);
+    event.get('c:voidflame').add(['justdirethings:refined_t3_fluid_source']);
+    event.get('c:eclipse_ember').add(['justdirethings:refined_t4_fluid_source']);
+    event.get('c:hootch').add(['enderio:fluid_hootch_still']);
+    event.get('c:rocket_fuel').add(['enderio:fluid_rocket_fuel_still']);
+    event.get('c:fire_water').add(['enderio:fluid_fire_water_still']);
+    event.get('c:dew_of_the_void').add(['enderio:fluid_dew_of_the_void_still']);
+    event.get('c:canola_oil').add(['actuallyadditions:canola_oil']);
+    event.get('c:refined_canola_oil').add(['actuallyadditions:refined_canola_oil']);
+    event.get('c:crystallized_oil').add(['actuallyadditions:crystallized_oil']);
+    event.get('c:empowered_oil').add(['actuallyadditions:empowered_oil']);
+    event.get('c:turbo_fuel').add(['oritech:still_fuel']);
+    event.get('c:boosted_diesel').add(['modern_industrialization:boosted_diesel']);
+    event.get('c:high_power_biodiesel').add(['immersiveengineering:high_power_biodiesel']);
+    event.get('c:creosote').add(['modern_industrialization:creosote', 'immersiveengineering:creosote']);
+});

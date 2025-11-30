@@ -1,0 +1,572 @@
+[07:51:47.486] [INFO]: Loading config 'startup.json'.
+[07:51:56.893] [INFO]: Loaded plugins: almostunified:neoforge, almostunified:common, extended_industrialization:almost_unified, modern_industrialization:almost_unified
+[07:52:15.617] [WARN]: Reload detected. Reconstructing runtime.
+[07:52:15.624] [INFO]: Loading config 'debug.json'.
+[07:52:15.637] [INFO]: Loading config 'placeholders.json'.
+[07:52:15.645] [INFO]: Loading config 'tags.json'.
+[07:52:15.708] [WARN]: The following mods are used in unification settings, but are not loaded: [emendatusenigmatica]
+[07:52:15.744] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:clumps/tin' -> [create:crushed_raw_tin, mekanism:clump_tin]
+[07:52:15.744] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crystals/lead' -> [mekanism:crystal_lead]
+[07:52:15.745] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/lead' -> [immersiveengineering:storage_lead, mekanism:block_lead]
+[07:52:15.745] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/electrum' -> [immersiveengineering:plate_electrum]
+[07:52:15.745] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/aluminum' -> [immersiveengineering:plate_aluminum]
+[07:52:15.746] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:tiny_dusts/copper' -> [oritech:small_copper_dust]
+[07:52:15.746] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/silver' -> [occultism:silver_nugget, immersiveengineering:nugget_silver]
+[07:52:15.747] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/lead' -> [mekanism:nugget_lead, immersiveengineering:nugget_lead]
+[07:52:15.747] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:tiny_dusts/plutonium' -> [oritech:small_plutonium_dust]
+[07:52:15.748] [INFO]: [AutoHiding] Hiding 2/5 items for tag '#c:ores/quartz' -> [malum:natural_quartz_ore, malum:deepslate_quartz_ore]
+[07:52:15.748] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:clumps/gold' -> [oritech:gold_clump, mekanism:clump_gold, create:crushed_raw_gold]
+[07:52:15.749] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dyes/green' -> [enderio:organic_green_dye]
+[07:52:15.749] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:gems/quartz' -> [malum:natural_quartz]
+[07:52:15.750] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/raw_silver' -> [immersiveengineering:raw_block_silver, occultism:raw_silver_block]
+[07:52:15.750] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:silicon' -> [oritech:silicon, enderio:silicon]
+[07:52:15.751] [INFO]: [AutoHiding] Hiding 7/9 items for tag '#c:ores/uranium' -> [bigreactors:deepslate_yellorite_ore, bigreactors:yellorite_ore, mekanism:deepslate_uranium_ore, mekanism:uranium_ore, immersiveengineering:ore_uranium, oritech:deepslate_uranium_ore, immersiveengineering:deepslate_ore_uranium]
+[07:52:15.752] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/charcoal' -> [justdirethings:charcoal]
+[07:52:15.752] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:clumps/copper' -> [oritech:copper_clump, create:crushed_raw_copper, mekanism:clump_copper]
+[07:52:15.753] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/sulfur' -> [immersiveengineering:dust_sulfur, mekanism:dust_sulfur]
+[07:52:15.754] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dyes/brown' -> [enderio:organic_brown_dye]
+[07:52:15.754] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/bronze' -> [mekanism:ingot_bronze]
+[07:52:15.755] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/salt' -> [mekanism:salt]
+[07:52:15.755] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/silver' -> [immersiveengineering:plate_silver]
+[07:52:15.756] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/tin' -> [mekanism:raw_tin]
+[07:52:15.757] [INFO]: [AutoHiding] Hiding 6/7 items for tag '#c:dusts/gold' -> [mekanism:dust_gold, occultism:gold_dust, enderio:powdered_gold, oritech:gold_dust, modern_industrialization:gold_dust, immersiveengineering:dust_gold]
+[07:52:15.758] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/aluminum' -> [immersiveengineering:ingot_aluminum]
+[07:52:15.759] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/netherite' -> [occultism:netherite_dust, extended_industrialization:netherite_dust]
+[07:52:15.760] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/electrum' -> [immersiveengineering:storage_electrum, oritech:electrum_block]
+[07:52:15.760] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/aluminum' -> [modern_industrialization:aluminum_dust, immersiveengineering:dust_aluminum]
+[07:52:15.760] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:tiny_dusts/uranium' -> [oritech:small_uranium_dust]
+[07:52:15.761] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dirty_dusts/uranium' -> [mekanism:dirty_dust_uranium]
+[07:52:15.761] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/bronze' -> [mekanism:block_bronze]
+[07:52:15.762] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/silver' -> [modern_industrialization:silver_dust, immersiveengineering:dust_silver, occultism:silver_dust]
+[07:52:15.762] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:tiny_dusts/gold' -> [oritech:small_gold_dust]
+[07:52:15.764] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crystals/iron' -> [mekanism:crystal_iron]
+[07:52:15.765] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:rods/iron' -> [immersiveengineering:stick_iron]
+[07:52:15.766] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dirty_dusts/iron' -> [mekanism:dirty_dust_iron]
+[07:52:15.766] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/bronze' -> [mekanism:dust_bronze]
+[07:52:15.767] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:ingots/uranium' -> [immersiveengineering:ingot_uranium, bigreactors:yellorium_ingot, mekanism:ingot_uranium]
+[07:52:15.767] [INFO]: [AutoHiding] Hiding 4/5 items for tag '#c:raw_materials/uranium' -> [oritech:raw_uranium, immersiveengineering:raw_uranium, bigreactors:raw_yellorium, mekanism:raw_uranium]
+[07:52:15.768] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dirty_dusts/osmium' -> [mekanism:dirty_dust_osmium]
+[07:52:15.768] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/tin' -> [mekanism:tin_ore, mekanism:deepslate_tin_ore]
+[07:52:15.769] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/plutonium' -> [oritech:plutonium_dust]
+[07:52:15.769] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crystals/osmium' -> [mekanism:crystal_osmium]
+[07:52:15.770] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/aluminum' -> [immersiveengineering:storage_aluminum]
+[07:52:15.770] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/platinum' -> [oritech:platinum_block]
+[07:52:15.771] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:plates/gold' -> [create:golden_sheet, immersiveengineering:plate_gold]
+[07:52:15.771] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/steel' -> [mekanism:nugget_steel, immersiveengineering:nugget_steel]
+[07:52:15.772] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:raw_materials/nickel' -> [immersiveengineering:raw_nickel, oritech:raw_nickel]
+[07:52:15.772] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/diamond' -> [deeperdarker:sculk_stone_diamond_ore, deeperdarker:gloomslate_diamond_ore]
+[07:52:15.773] [INFO]: [AutoHiding] Hiding 2/5 items for tag '#c:ores/gold' -> [deeperdarker:gloomslate_gold_ore, deeperdarker:sculk_stone_gold_ore]
+[07:52:15.773] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dirty_dusts/tin' -> [mekanism:dirty_dust_tin]
+[07:52:15.774] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:shards/osmium' -> [mekanism:shard_osmium]
+[07:52:15.774] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/wood' -> [immersiveengineering:dust_wood, productivetrees:sawdust]
+[07:52:15.775] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:tiny_gems/coal' -> [malum:coal_fragment, utilitarian:tiny_coal]
+[07:52:15.776] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/platinum' -> [oritech:platinum_nugget]
+[07:52:15.776] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/nickel' -> [oritech:nickel_ingot, immersiveengineering:ingot_nickel]
+[07:52:15.777] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:shards/gold' -> [mekanism:shard_gold]
+[07:52:15.777] [INFO]: [AutoHiding] Hiding 6/7 items for tag '#c:dusts/iron' -> [mekanism:dust_iron, modern_industrialization:iron_dust, occultism:iron_dust, enderio:powdered_iron, immersiveengineering:dust_iron, oritech:iron_dust]
+[07:52:15.778] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:raw_materials/silver' -> [immersiveengineering:raw_silver, occultism:raw_silver]
+[07:52:15.778] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:tiny_dusts/iron' -> [oritech:small_iron_dust]
+[07:52:15.779] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/coal_coke' -> [immersiveengineering:dust_coke]
+[07:52:15.779] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/silver' -> [occultism:silver_block, immersiveengineering:storage_silver]
+[07:52:15.779] [INFO]: [AutoHiding] Hiding 4/5 items for tag '#c:ingots/steel' -> [mekanism:ingot_steel, immersiveengineering:ingot_steel, oritech:steel_ingot, mffs:steel_ingot]
+[07:52:15.780] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/plutonium' -> [bigreactors:blutonium_block]
+[07:52:15.780] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/copper' -> [deeperdarker:sculk_stone_copper_ore, deeperdarker:gloomslate_copper_ore]
+[07:52:15.781] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dirty_dusts/gold' -> [mekanism:dirty_dust_gold]
+[07:52:15.781] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:gears/iron' -> [industrialforegoing:iron_gear, enderio:iron_gear]
+[07:52:15.782] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/iridium' -> [modern_industrialization:iridium_dust]
+[07:52:15.782] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/tin' -> [mekanism:ingot_tin]
+[07:52:15.783] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/bronze' -> [mekanism:nugget_bronze]
+[07:52:15.783] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/tin' -> [mekanism:nugget_tin]
+[07:52:15.784] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:raw_materials/lead' -> [mekanism:raw_lead, immersiveengineering:raw_lead]
+[07:52:15.784] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dyes/black' -> [enderio:organic_black_dye]
+[07:52:15.784] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/silver' -> [occultism:silver_ingot, immersiveengineering:ingot_silver]
+[07:52:15.785] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/platinum' -> [oritech:platinum_ingot]
+[07:52:15.785] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crystals/gold' -> [mekanism:crystal_gold]
+[07:52:15.786] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:plates/iron' -> [create:iron_sheet, immersiveengineering:plate_iron]
+[07:52:15.786] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:storage_blocks/uranium' -> [immersiveengineering:storage_uranium, mekanism:block_uranium, bigreactors:yellorium_block]
+[07:52:15.787] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/aluminum' -> [immersiveengineering:nugget_aluminum]
+[07:52:15.788] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:storage_blocks/steel' -> [oritech:steel_block, mekanism:block_steel, immersiveengineering:storage_steel]
+[07:52:15.788] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_platinum' -> [oritech:raw_platinum_block]
+[07:52:15.789] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:clumps/lead' -> [mekanism:clump_lead, create:crushed_raw_lead]
+[07:52:15.789] [INFO]: [AutoHiding] Hiding 4/5 items for tag '#c:nuggets/copper' -> [oritech:copper_nugget, immersiveengineering:nugget_copper, create:copper_nugget, pneumaticcraft:copper_nugget]
+[07:52:15.790] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:tiny_gems/charcoal' -> [malum:charcoal_fragment, utilitarian:tiny_charcoal]
+[07:52:15.790] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/lead' -> [immersiveengineering:ingot_lead, mekanism:ingot_lead]
+[07:52:15.791] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/lapis' -> [mekanism:dust_lapis_lazuli, enderio:powdered_lapis_lazuli, occultism:lapis_dust]
+[07:52:15.791] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/uranium' -> [immersiveengineering:nugget_uranium, mekanism:nugget_uranium]
+[07:52:15.792] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:shards/iron' -> [mekanism:shard_iron]
+[07:52:15.793] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:rods/steel' -> [immersiveengineering:stick_steel]
+[07:52:15.794] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/nickel' -> [immersiveengineering:storage_nickel, oritech:nickel_block]
+[07:52:15.794] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/emerald' -> [mekanism:dust_emerald, occultism:emerald_dust, appflux:emerald_dust]
+[07:52:15.795] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crystals/uranium' -> [mekanism:crystal_uranium]
+[07:52:15.795] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_tin' -> [mekanism:block_raw_tin]
+[07:52:15.796] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/tin' -> [mekanism:dust_tin, enderio:powdered_tin, modern_industrialization:tin_dust]
+[07:52:15.796] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/nickel' -> [immersiveengineering:nugget_nickel, oritech:nickel_nugget]
+[07:52:15.796] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:clumps/silver' -> [create:crushed_raw_silver]
+[07:52:15.797] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dirty_dusts/copper' -> [mekanism:dirty_dust_copper]
+[07:52:15.798] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:tiny_dusts/platinum' -> [oritech:small_platinum_dust]
+[07:52:15.798] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:plates/copper' -> [create:copper_sheet, immersiveengineering:plate_copper]
+[07:52:15.798] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:gears/gold' -> [industrialforegoing:gold_gear]
+[07:52:15.799] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/electrum' -> [immersiveengineering:nugget_electrum]
+[07:52:15.800] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/steel' -> [mekanism:dust_steel, immersiveengineering:dust_steel, oritech:steel_dust]
+[07:52:15.801] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/lapis' -> [deeperdarker:gloomslate_lapis_ore, deeperdarker:sculk_stone_lapis_ore]
+[07:52:15.801] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/osmium' -> [mekanism:dust_osmium]
+[07:52:15.802] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/quartz' -> [enderio:powdered_quartz, oritech:quartz_dust, mekanism:dust_quartz]
+[07:52:15.802] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/iron' -> [deeperdarker:gloomslate_iron_ore, deeperdarker:sculk_stone_iron_ore]
+[07:52:15.803] [INFO]: [AutoHiding] Hiding 1/3 items for tag '#c:ores/platinum' -> [oritech:endstone_platinum_ore]
+[07:52:15.803] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/nickel' -> [immersiveengineering:dust_nickel, modern_industrialization:nickel_dust, oritech:nickel_dust]
+[07:52:15.804] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:clumps/zinc' -> [create:crushed_raw_zinc]
+[07:52:15.804] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/obsidian' -> [enderio:powdered_obsidian, mekanism:dust_obsidian, occultism:obsidian_dust]
+[07:52:15.805] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/lead' -> [immersiveengineering:dust_lead, mekanism:dust_lead, modern_industrialization:lead_dust]
+[07:52:15.805] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/coal' -> [deeperdarker:gloomslate_coal_ore, deeperdarker:sculk_stone_coal_ore]
+[07:52:15.805] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:shards/copper' -> [mekanism:shard_copper]
+[07:52:15.806] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/steel' -> [immersiveengineering:plate_steel]
+[07:52:15.806] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:clumps/uranium' -> [create:crushed_raw_uranium, mekanism:clump_uranium]
+[07:52:15.807] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:clumps/osmium' -> [mekanism:clump_osmium, create:crushed_raw_osmium]
+[07:52:15.807] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/platinum' -> [modern_industrialization:platinum_dust, oritech:platinum_dust]
+[07:52:15.807] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/plutonium' -> [bigreactors:blutonium_ingot]
+[07:52:15.808] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/raw_nickel' -> [oritech:raw_nickel_block, immersiveengineering:raw_block_nickel]
+[07:52:15.808] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:clumps/aluminum' -> [create:crushed_raw_aluminum]
+[07:52:15.808] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/nickel' -> [immersiveengineering:plate_nickel]
+[07:52:15.809] [INFO]: [AutoHiding] Hiding 6/7 items for tag '#c:dusts/copper' -> [enderio:powdered_copper, immersiveengineering:dust_copper, mekanism:dust_copper, modern_industrialization:copper_dust, occultism:copper_dust, oritech:copper_dust]
+[07:52:15.809] [INFO]: [AutoHiding] Hiding 4/6 items for tag '#c:ores/nickel' -> [immersiveengineering:ore_nickel, oritech:deepslate_nickel_ore, immersiveengineering:deepslate_ore_nickel, oritech:nickel_ore]
+[07:52:15.810] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:storage_blocks/raw_uranium' -> [mekanism:block_raw_uranium, immersiveengineering:raw_block_uranium, bigreactors:raw_yellorium_block]
+[07:52:15.810] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/diamond' -> [appflux:diamond_dust, mekanism:dust_diamond]
+[07:52:15.811] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/electrum' -> [immersiveengineering:dust_electrum, oritech:electrum_dust]
+[07:52:15.811] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:coal_coke' -> [immersiveengineering:coal_coke]
+[07:52:15.812] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:dusts/coal' -> [mekanism:dust_coal, oritech:coal_dust, enderio:powdered_coal]
+[07:52:15.813] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plates/lead' -> [immersiveengineering:plate_lead]
+[07:52:15.814] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/emerald' -> [deeperdarker:sculk_stone_emerald_ore, deeperdarker:gloomslate_emerald_ore]
+[07:52:15.816] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:shards/uranium' -> [mekanism:shard_uranium]
+[07:52:15.817] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/ender_pearl' -> [enderio:powdered_ender_pearl]
+[07:52:15.818] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/platinum' -> [oritech:raw_platinum]
+[07:52:15.819] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/electrum' -> [immersiveengineering:ingot_electrum, oritech:electrum_ingot]
+[07:52:15.819] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:clumps/platinum' -> [oritech:platinum_clump, create:crushed_raw_platinum]
+[07:52:15.820] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/silver' -> [immersiveengineering:ore_silver, immersiveengineering:deepslate_ore_silver]
+[07:52:15.821] [INFO]: [AutoHiding] Hiding 4/6 items for tag '#c:ores/lead' -> [mekanism:lead_ore, immersiveengineering:ore_lead, mekanism:deepslate_lead_ore, immersiveengineering:deepslate_ore_lead]
+[07:52:15.821] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:rods/aluminum' -> [immersiveengineering:stick_aluminum]
+[07:52:15.822] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:clumps/iron' -> [mekanism:clump_iron, create:crushed_raw_iron, oritech:iron_clump]
+[07:52:15.822] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crystals/copper' -> [mekanism:crystal_copper]
+[07:52:15.822] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crystals/tin' -> [mekanism:crystal_tin]
+[07:52:15.823] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:tiny_dusts/nickel' -> [oritech:small_nickel_dust]
+[07:52:15.823] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:shards/tin' -> [mekanism:shard_tin]
+[07:52:15.824] [INFO]: [AutoHiding] Hiding 4/5 items for tag '#c:dusts/uranium' -> [oritech:uranium_dust, immersiveengineering:dust_uranium, modern_industrialization:uranium_dust, mekanism:dust_uranium]
+[07:52:15.825] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:shards/lead' -> [mekanism:shard_lead]
+[07:52:15.826] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:storage_blocks/raw_lead' -> [immersiveengineering:raw_block_lead, mekanism:block_raw_lead]
+[07:52:15.826] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/tin' -> [mekanism:block_tin]
+[07:52:15.826] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/iesnium' -> [occultism:iesnium_dust]
+[07:52:15.827] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:clumps/nickel' -> [create:crushed_raw_nickel, oritech:nickel_clump]
+[07:52:15.827] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dirty_dusts/lead' -> [mekanism:dirty_dust_lead]
+[07:52:23.767] [INFO]: Loading config 'duplicates.json'.
+[07:52:23.778] [INFO]: Recipe count: 37516
+[07:52:23.908] [INFO]: 34548 out of 37516 recipes were loaded for unification.
+[07:52:24.585] [INFO]: Recipe count afterwards: 37252 (done in 806.6 ms)
+[07:52:24.590] [INFO]: Loot table 'immersiveengineering:blocks/storage_nickel' was unified by: materials
+[07:52:24.592] [INFO]: Loot table 'enderio:chests/alloy_loot' was unified by: materials
+[07:52:24.596] [INFO]: Loot table 'immersiveengineering:blocks/storage_silver' was unified by: materials
+[07:52:24.597] [INFO]: Loot table 'malum:blocks/natural_quartz_cluster' was unified by: materials
+[07:52:24.598] [INFO]: Loot table 'deeperdarker:blocks/gloomslate_lapis_ore' was unified by: materials
+[07:52:24.599] [INFO]: Loot table 'bigreactors:blocks/deepslate_yellorite_ore' was unified by: materials
+[07:52:24.601] [INFO]: Loot table 'occultism:blocks/silver_block' was unified by: materials
+[07:52:24.601] [INFO]: Loot table 'immersiveengineering:blocks/ore_lead' was unified by: materials
+[07:52:24.602] [INFO]: Loot table 'mekanism:blocks/block_tin' was unified by: materials
+[07:52:24.603] [INFO]: Loot table 'oritech:blocks/deepslate_platinum_ore' was unified by: materials
+[07:52:24.604] [INFO]: Loot table 'immersiveengineering:blocks/storage_electrum' was unified by: materials
+[07:52:24.605] [INFO]: Loot table 'immersiveengineering:chests/engineers_house' was unified by: materials
+[07:52:24.605] [INFO]: Loot table 'oritech:blocks/raw_nickel_block' was unified by: materials
+[07:52:24.605] [INFO]: Loot table 'immersiveengineering:blocks/storage_lead' was unified by: materials
+[07:52:24.607] [INFO]: Loot table 'deeperdarker:blocks/sculk_stone_lapis_ore' was unified by: materials
+[07:52:24.607] [INFO]: Loot table 'immersiveengineering:blocks/storage_steel' was unified by: materials
+[07:52:24.608] [INFO]: Loot table 'deeperdarker:blocks/gloomslate_copper_ore' was unified by: materials
+[07:52:24.609] [INFO]: Loot table 'oritech:blocks/deepslate_nickel_ore' was unified by: materials
+[07:52:24.609] [INFO]: Loot table 'bigreactors:blocks/yellorite_ore' was unified by: materials
+[07:52:24.609] [INFO]: Loot table 'malum:blocks/deepslate_quartz_ore' was unified by: materials
+[07:52:24.611] [INFO]: Loot table 'oritech:blocks/steel_block' was unified by: materials
+[07:52:24.611] [INFO]: Loot table 'immersiveengineering:blocks/raw_block_uranium' was unified by: materials
+[07:52:24.612] [INFO]: Loot table 'occultism:blocks/silver_ore_deepslate' was unified by: materials
+[07:52:24.612] [INFO]: Loot table 'deeperdarker:blocks/gloomslate_coal_ore' was unified by: materials
+[07:52:24.613] [INFO]: Loot table 'bigreactors:blocks/raw_yellorium_block' was unified by: materials
+[07:52:24.614] [INFO]: Loot table 'deeperdarker:blocks/gloomslate_diamond_ore' was unified by: materials
+[07:52:24.614] [INFO]: Loot table 'immersiveengineering:entities/fusilier' was unified by: materials
+[07:52:24.615] [INFO]: Loot table 'mekanism:blocks/block_raw_lead' was unified by: materials
+[07:52:24.616] [INFO]: Loot table 'deeperdarker:blocks/sculk_stone_gold_ore' was unified by: materials
+[07:52:24.618] [INFO]: Loot table 'oritech:blocks/uranium_crystal' was unified by: materials
+[07:52:24.619] [INFO]: Loot table 'deeperdarker:blocks/gloomslate_emerald_ore' was unified by: materials
+[07:52:24.621] [INFO]: Loot table 'mekanism:blocks/block_bronze' was unified by: materials
+[07:52:24.622] [INFO]: Loot table 'deeperdarker:blocks/sculk_stone_iron_ore' was unified by: materials
+[07:52:24.622] [INFO]: Loot table 'mekanism:blocks/deepslate_uranium_ore' was unified by: materials
+[07:52:24.625] [INFO]: Loot table 'mekanism:blocks/lead_ore' was unified by: materials
+[07:52:24.626] [INFO]: Loot table 'malum:blocks/natural_quartz_ore' was unified by: materials
+[07:52:24.627] [INFO]: Loot table 'mekanism:blocks/block_lead' was unified by: materials
+[07:52:24.628] [INFO]: Loot table 'mekanism:blocks/block_raw_uranium' was unified by: materials
+[07:52:24.628] [INFO]: Loot table 'mekanism:blocks/block_raw_tin' was unified by: materials
+[07:52:24.629] [INFO]: Loot table 'bigreactors:blocks/yellorium_block' was unified by: materials
+[07:52:24.631] [INFO]: Loot table 'justdirethings:blocks/charcoal' was unified by: materials
+[07:52:24.634] [INFO]: Loot table 'oritech:blocks/raw_platinum_block' was unified by: materials
+[07:52:24.635] [INFO]: Loot table 'mekanism:blocks/block_uranium' was unified by: materials
+[07:52:24.636] [INFO]: Loot table 'immersiveengineering:blocks/ore_nickel' was unified by: materials
+[07:52:24.636] [INFO]: Loot table 'deeperdarker:blocks/gloomslate_iron_ore' was unified by: materials
+[07:52:24.638] [INFO]: Loot table 'immersiveengineering:blocks/deepslate_ore_lead' was unified by: materials
+[07:52:24.638] [INFO]: Loot table 'deeperdarker:blocks/sculk_stone_coal_ore' was unified by: materials
+[07:52:24.639] [INFO]: Loot table 'immersiveengineering:blocks/raw_block_nickel' was unified by: materials
+[07:52:24.639] [INFO]: Loot table 'immersiveengineering:blocks/ore_silver' was unified by: materials
+[07:52:24.640] [INFO]: Loot table 'immersiveengineering:blocks/raw_block_silver' was unified by: materials
+[07:52:24.642] [INFO]: Loot table 'deeperdarker:blocks/gloomslate_gold_ore' was unified by: materials
+[07:52:24.644] [INFO]: Loot table 'immersiveengineering:blocks/storage_aluminum' was unified by: materials
+[07:52:24.647] [INFO]: Loot table 'mekanism:blocks/block_salt' was unified by: materials
+[07:52:24.649] [INFO]: Loot table 'oritech:blocks/endstone_platinum_ore' was unified by: materials
+[07:52:24.650] [INFO]: Loot table 'mekanism:blocks/uranium_ore' was unified by: materials
+[07:52:24.650] [INFO]: Loot table 'immersiveengineering:blocks/ore_uranium' was unified by: materials
+[07:52:24.651] [INFO]: Loot table 'oritech:blocks/nickel_ore' was unified by: materials
+[07:52:24.651] [INFO]: Loot table 'immersiveengineering:blocks/storage_uranium' was unified by: materials
+[07:52:24.652] [INFO]: Loot table 'deeperdarker:blocks/sculk_stone_copper_ore' was unified by: materials
+[07:52:24.652] [INFO]: Loot table 'mekanism:blocks/deepslate_tin_ore' was unified by: materials
+[07:52:24.653] [INFO]: Loot table 'oritech:blocks/electrum_block' was unified by: materials
+[07:52:24.653] [INFO]: Loot table 'immersiveengineering:gameplay/hero_of_the_village/engineer' was unified by: materials
+[07:52:24.653] [INFO]: Loot table 'occultism:blocks/silver_ore' was unified by: materials
+[07:52:24.654] [INFO]: Loot table 'immersiveengineering:blocks/raw_block_lead' was unified by: materials
+[07:52:24.654] [INFO]: Loot table 'deeperdarker:blocks/sculk_stone_diamond_ore' was unified by: materials
+[07:52:24.654] [INFO]: Loot table 'immersiveengineering:blocks/deepslate_ore_nickel' was unified by: materials
+[07:52:24.656] [INFO]: Loot table 'oritech:blocks/platinum_block' was unified by: materials
+[07:52:24.656] [INFO]: Loot table 'immersiveengineering:blocks/deepslate_ore_silver' was unified by: materials
+[07:52:24.657] [INFO]: Loot table 'oritech:blocks/deepslate_uranium_ore' was unified by: materials
+[07:52:24.657] [INFO]: Loot table 'oritech:blocks/nickel_block' was unified by: materials
+[07:52:24.658] [INFO]: Loot table 'mekanism:blocks/tin_ore' was unified by: materials
+[07:52:24.659] [INFO]: Loot table 'bigreactors:blocks/blutonium_block' was unified by: materials
+[07:52:24.660] [INFO]: Loot table 'mekanism:blocks/block_steel' was unified by: materials
+[07:52:24.661] [INFO]: Loot table 'occultism:blocks/raw_silver_block' was unified by: materials
+[07:52:24.662] [INFO]: Loot table 'deeperdarker:blocks/sculk_stone_emerald_ore' was unified by: materials
+[07:52:24.663] [INFO]: Loot table 'mekanism:blocks/deepslate_lead_ore' was unified by: materials
+[07:52:24.663] [INFO]: Loot table 'immersiveengineering:blocks/deepslate_ore_uranium' was unified by: materials
+[07:52:33.648] [ERROR]: The following recipes were unified and threw exceptions when being loaded: [create:crushing/gloomslate_coal_ore, create:crushing/gloomslate_emerald_ore, create:crushing/compat/immersiveengineering/coke_block, create:crushing/sculk_stone_iron_ore, create:crushing/sculk_stone_emerald_ore, create:crushing/sculk_stone_gold_ore, create:crushing/gloomslate_iron_ore, create:crushing/sculk_stone_lapis_ore, create:crushing/sculk_stone_coal_ore, create:crushing/gloomslate_lapis_ore, create:crushing/gloomslate_gold_ore, create:crushing/compat/immersiveengineering/coal_coke, create:crushing/gloomslate_diamond_ore, create:crushing/sculk_stone_diamond_ore, create:crushing/sculk_stone_copper_ore, create:crushing/gloomslate_copper_ore]
+[07:52:33.649] [WARN]: Try to add them to the ignore list and if the problem is gone, report it to the Almost Unified developers.
+[07:52:39.425] [INFO]: [WorldGen] Mark ConfiguredFeature 'malum:natural_quartz_ore' for removal:
+[07:52:39.426] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_gloomslate_coal' for removal:
+[07:52:39.426] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_gloomslate_copper' for removal:
+[07:52:39.427] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_gloomslate_diamond' for removal:
+[07:52:39.427] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_gloomslate_emerald' for removal:
+[07:52:39.427] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_gloomslate_gold' for removal:
+[07:52:39.428] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_gloomslate_iron' for removal:
+[07:52:39.428] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_gloomslate_lapis' for removal:
+[07:52:39.429] [INFO]: [WorldGen] Mark ConfiguredFeature 'oritech:ore_nickel' for removal:
+[07:52:39.429] [INFO]: [WorldGen] Changed ConfiguredFeature 'oritech:ore_platinum':
+[07:52:39.430] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_sculk_coal' for removal:
+[07:52:39.430] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_sculk_copper' for removal:
+[07:52:39.430] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_sculk_diamond' for removal:
+[07:52:39.431] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_sculk_emerald' for removal:
+[07:52:39.431] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_sculk_gold' for removal:
+[07:52:39.436] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_sculk_iron' for removal:
+[07:52:39.436] [INFO]: [WorldGen] Mark ConfiguredFeature 'deeperdarker:ore_sculk_lapis' for removal:
+[07:52:39.437] [INFO]: [WorldGen] Mark ConfiguredFeature 'bigreactors:yellorite_deepslate_ore' for removal:
+[07:52:39.437] [INFO]: [WorldGen] Mark ConfiguredFeature 'bigreactors:yellorite_ore' for removal:
+[07:52:39.463] [INFO]: [WorldGen] Removed features from Biome terralith:alpha_islands:
+[07:52:39.464] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.469] [INFO]: [WorldGen] Removed features from Biome terralith:alpha_islands_winter:
+[07:52:39.469] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.471] [INFO]: [WorldGen] Removed features from Biome terralith:alpine_grove:
+[07:52:39.472] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.475] [INFO]: [WorldGen] Removed features from Biome terralith:alpine_highlands:
+[07:52:39.475] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.477] [INFO]: [WorldGen] Removed features from Biome terralith:amethyst_canyon:
+[07:52:39.478] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.480] [INFO]: [WorldGen] Removed features from Biome terralith:amethyst_rainforest:
+[07:52:39.480] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.481] [INFO]: [WorldGen] Removed features from Biome terralith:ancient_sands:
+[07:52:39.482] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.483] [INFO]: [WorldGen] Removed features from Biome ars_nouveau:archwood_forest:
+[07:52:39.483] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.484] [INFO]: [WorldGen] Removed features from Biome terralith:arid_highlands:
+[07:52:39.485] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.486] [INFO]: [WorldGen] Removed features from Biome terralith:ashen_savanna:
+[07:52:39.486] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.488] [INFO]: [WorldGen] Removed features from Biome minecraft:badlands:
+[07:52:39.488] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.497] [INFO]: [WorldGen] Removed features from Biome minecraft:bamboo_jungle:
+[07:52:39.498] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.500] [INFO]: [WorldGen] Removed features from Biome terralith:basalt_cliffs:
+[07:52:39.501] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.503] [INFO]: [WorldGen] Removed features from Biome minecraft:beach:
+[07:52:39.504] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.505] [INFO]: [WorldGen] Removed features from Biome minecraft:birch_forest:
+[07:52:39.505] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.506] [INFO]: [WorldGen] Removed features from Biome terralith:birch_taiga:
+[07:52:39.507] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.508] [INFO]: [WorldGen] Removed features from Biome ars_elemental:blazing_forest:
+[07:52:39.508] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.509] [INFO]: [WorldGen] Removed features from Biome deeperdarker:blooming_caverns:
+[07:52:39.510] [INFO]: [WorldGen]	underground_ores: deeperdarker:sculk_coal, deeperdarker:sculk_iron, deeperdarker:sculk_copper, deeperdarker:sculk_gold, deeperdarker:sculk_emerald, deeperdarker:sculk_lapis, deeperdarker:sculk_diamond
+[07:52:39.511] [INFO]: [WorldGen] Removed features from Biome terralith:blooming_plateau:
+[07:52:39.512] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.514] [INFO]: [WorldGen] Removed features from Biome terralith:blooming_valley:
+[07:52:39.515] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.517] [INFO]: [WorldGen] Removed features from Biome terralith:brushland:
+[07:52:39.518] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.520] [INFO]: [WorldGen] Removed features from Biome terralith:bryce_canyon:
+[07:52:39.523] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.528] [INFO]: [WorldGen] Removed features from Biome terralith:caldera:
+[07:52:39.540] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.542] [INFO]: [WorldGen] Removed features from Biome ars_elemental:cascading_forest:
+[07:52:39.542] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.544] [INFO]: [WorldGen] Removed features from Biome terralith:cave/andesite_caves:
+[07:52:39.544] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.545] [INFO]: [WorldGen] Removed features from Biome terralith:cave/deep_caves:
+[07:52:39.546] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.547] [INFO]: [WorldGen] Removed features from Biome terralith:cave/diorite_caves:
+[07:52:39.547] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.548] [INFO]: [WorldGen] Removed features from Biome terralith:cave/frostfire_caves:
+[07:52:39.548] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.563] [INFO]: [WorldGen] Removed features from Biome terralith:cave/fungal_caves:
+[07:52:39.564] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.565] [INFO]: [WorldGen] Removed features from Biome terralith:cave/granite_caves:
+[07:52:39.570] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.575] [INFO]: [WorldGen] Removed features from Biome terralith:cave/infested_caves:
+[07:52:39.576] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.577] [INFO]: [WorldGen] Removed features from Biome terralith:cave/mantle_caves:
+[07:52:39.578] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.579] [INFO]: [WorldGen] Removed features from Biome terralith:cave/thermal_caves:
+[07:52:39.579] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.580] [INFO]: [WorldGen] Removed features from Biome terralith:cave/tuff_caves:
+[07:52:39.581] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.582] [INFO]: [WorldGen] Removed features from Biome terralith:cave/underground_jungle:
+[07:52:39.582] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.583] [INFO]: [WorldGen] Removed features from Biome minecraft:cherry_grove:
+[07:52:39.584] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.585] [INFO]: [WorldGen] Removed features from Biome terralith:cloud_forest:
+[07:52:39.585] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.586] [INFO]: [WorldGen] Removed features from Biome minecraft:cold_ocean:
+[07:52:39.586] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.587] [INFO]: [WorldGen] Removed features from Biome terralith:cold_shrubland:
+[07:52:39.588] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.592] [INFO]: [WorldGen] Removed features from Biome minecraft:dark_forest:
+[07:52:39.593] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.595] [INFO]: [WorldGen] Removed features from Biome minecraft:deep_cold_ocean:
+[07:52:39.597] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.599] [INFO]: [WorldGen] Removed features from Biome minecraft:deep_dark:
+[07:52:39.599] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.600] [INFO]: [WorldGen] Removed features from Biome minecraft:deep_frozen_ocean:
+[07:52:39.601] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.603] [INFO]: [WorldGen] Removed features from Biome minecraft:deep_lukewarm_ocean:
+[07:52:39.605] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.607] [INFO]: [WorldGen] Removed features from Biome minecraft:deep_ocean:
+[07:52:39.607] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.609] [INFO]: [WorldGen] Removed features from Biome deeperdarker:deeplands:
+[07:52:39.611] [INFO]: [WorldGen]	underground_ores: deeperdarker:sculk_coal, deeperdarker:sculk_iron, deeperdarker:sculk_copper, deeperdarker:sculk_gold, deeperdarker:sculk_emerald, deeperdarker:sculk_lapis, deeperdarker:sculk_diamond
+[07:52:39.613] [INFO]: [WorldGen] Removed features from Biome minecraft:desert:
+[07:52:39.614] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.614] [INFO]: [WorldGen] Removed features from Biome terralith:desert_canyon:
+[07:52:39.615] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.616] [INFO]: [WorldGen] Removed features from Biome terralith:desert_oasis:
+[07:52:39.616] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.617] [INFO]: [WorldGen] Removed features from Biome terralith:desert_spires:
+[07:52:39.618] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.619] [INFO]: [WorldGen] Removed features from Biome minecraft:dripstone_caves:
+[07:52:39.619] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.620] [INFO]: [WorldGen] Removed features from Biome deeperdarker:echoing_forest:
+[07:52:39.620] [INFO]: [WorldGen]	underground_ores: deeperdarker:sculk_coal, deeperdarker:sculk_iron, deeperdarker:sculk_copper, deeperdarker:sculk_gold, deeperdarker:sculk_emerald, deeperdarker:sculk_lapis, deeperdarker:sculk_diamond
+[07:52:39.621] [INFO]: [WorldGen] Removed features from Biome terralith:emerald_peaks:
+[07:52:39.622] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.626] [INFO]: [WorldGen] Removed features from Biome minecraft:eroded_badlands:
+[07:52:39.626] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.627] [INFO]: [WorldGen] Removed features from Biome ars_elemental:flashing_forest:
+[07:52:39.628] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.629] [INFO]: [WorldGen] Removed features from Biome ars_elemental:flourishing_forest:
+[07:52:39.630] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.631] [INFO]: [WorldGen] Removed features from Biome minecraft:flower_forest:
+[07:52:39.631] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.631] [INFO]: [WorldGen] Removed features from Biome minecraft:forest:
+[07:52:39.632] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.633] [INFO]: [WorldGen] Removed features from Biome terralith:forested_highlands:
+[07:52:39.633] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.634] [INFO]: [WorldGen] Removed features from Biome terralith:fractured_savanna:
+[07:52:39.634] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.637] [INFO]: [WorldGen] Removed features from Biome terralith:frozen_cliffs:
+[07:52:39.637] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.638] [INFO]: [WorldGen] Removed features from Biome minecraft:frozen_ocean:
+[07:52:39.639] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.640] [INFO]: [WorldGen] Removed features from Biome minecraft:frozen_peaks:
+[07:52:39.640] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.641] [INFO]: [WorldGen] Removed features from Biome minecraft:frozen_river:
+[07:52:39.642] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.643] [INFO]: [WorldGen] Removed features from Biome terralith:glacial_chasm:
+[07:52:39.643] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.644] [INFO]: [WorldGen] Removed features from Biome terralith:granite_cliffs:
+[07:52:39.644] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.645] [INFO]: [WorldGen] Removed features from Biome terralith:gravel_beach:
+[07:52:39.645] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.646] [INFO]: [WorldGen] Removed features from Biome terralith:gravel_desert:
+[07:52:39.647] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.648] [INFO]: [WorldGen] Removed features from Biome minecraft:grove:
+[07:52:39.648] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.649] [INFO]: [WorldGen] Removed features from Biome terralith:haze_mountain:
+[07:52:39.650] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.651] [INFO]: [WorldGen] Removed features from Biome terralith:highlands:
+[07:52:39.651] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.654] [INFO]: [WorldGen] Removed features from Biome terralith:hot_shrubland:
+[07:52:39.655] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.657] [INFO]: [WorldGen] Removed features from Biome terralith:ice_marsh:
+[07:52:39.658] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.659] [INFO]: [WorldGen] Removed features from Biome minecraft:ice_spikes:
+[07:52:39.660] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.661] [INFO]: [WorldGen] Removed features from Biome minecraft:jagged_peaks:
+[07:52:39.661] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.662] [INFO]: [WorldGen] Removed features from Biome minecraft:jungle:
+[07:52:39.663] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.664] [INFO]: [WorldGen] Removed features from Biome terralith:jungle_mountains:
+[07:52:39.664] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.665] [INFO]: [WorldGen] Removed features from Biome terralith:lavender_forest:
+[07:52:39.665] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.667] [INFO]: [WorldGen] Removed features from Biome terralith:lavender_valley:
+[07:52:39.667] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.668] [INFO]: [WorldGen] Removed features from Biome minecraft:lukewarm_ocean:
+[07:52:39.668] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.669] [INFO]: [WorldGen] Removed features from Biome minecraft:lush_caves:
+[07:52:39.669] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.670] [INFO]: [WorldGen] Removed features from Biome terralith:lush_desert:
+[07:52:39.670] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.671] [INFO]: [WorldGen] Removed features from Biome terralith:lush_valley:
+[07:52:39.671] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.672] [INFO]: [WorldGen] Removed features from Biome minecraft:mangrove_swamp:
+[07:52:39.672] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.673] [INFO]: [WorldGen] Removed features from Biome minecraft:meadow:
+[07:52:39.674] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.675] [INFO]: [WorldGen] Removed features from Biome terralith:mirage_isles:
+[07:52:39.675] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.676] [INFO]: [WorldGen] Removed features from Biome terralith:moonlight_grove:
+[07:52:39.676] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.677] [INFO]: [WorldGen] Removed features from Biome terralith:moonlight_valley:
+[07:52:39.678] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.683] [INFO]: [WorldGen] Removed features from Biome minecraft:mushroom_fields:
+[07:52:39.685] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.686] [INFO]: [WorldGen] Removed features from Biome minecraft:ocean:
+[07:52:39.687] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.688] [INFO]: [WorldGen] Removed features from Biome minecraft:old_growth_birch_forest:
+[07:52:39.689] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.690] [INFO]: [WorldGen] Removed features from Biome minecraft:old_growth_pine_taiga:
+[07:52:39.691] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.692] [INFO]: [WorldGen] Removed features from Biome minecraft:old_growth_spruce_taiga:
+[07:52:39.693] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.694] [INFO]: [WorldGen] Removed features from Biome terralith:orchid_swamp:
+[07:52:39.695] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.697] [INFO]: [WorldGen] Removed features from Biome deeperdarker:overcast_columns:
+[07:52:39.698] [INFO]: [WorldGen]	underground_ores: deeperdarker:gloomslate_coal, deeperdarker:gloomslate_iron, deeperdarker:gloomslate_copper, deeperdarker:gloomslate_gold, deeperdarker:gloomslate_emerald, deeperdarker:gloomslate_lapis, deeperdarker:gloomslate_diamond
+[07:52:39.702] [INFO]: [WorldGen] Removed features from Biome terralith:painted_mountains:
+[07:52:39.703] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.704] [INFO]: [WorldGen] Removed features from Biome minecraft:plains:
+[07:52:39.705] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.706] [INFO]: [WorldGen] Removed features from Biome terralith:red_oasis:
+[07:52:39.707] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.708] [INFO]: [WorldGen] Removed features from Biome minecraft:river:
+[07:52:39.709] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.710] [INFO]: [WorldGen] Removed features from Biome terralith:rocky_jungle:
+[07:52:39.710] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.711] [INFO]: [WorldGen] Removed features from Biome terralith:rocky_mountains:
+[07:52:39.711] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.712] [INFO]: [WorldGen] Removed features from Biome terralith:rocky_shrubland:
+[07:52:39.713] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.714] [INFO]: [WorldGen] Removed features from Biome terralith:sakura_grove:
+[07:52:39.715] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.716] [INFO]: [WorldGen] Removed features from Biome terralith:sakura_valley:
+[07:52:39.716] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.717] [INFO]: [WorldGen] Removed features from Biome terralith:sandstone_valley:
+[07:52:39.717] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.718] [INFO]: [WorldGen] Removed features from Biome minecraft:savanna:
+[07:52:39.718] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.724] [INFO]: [WorldGen] Removed features from Biome terralith:savanna_badlands:
+[07:52:39.726] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.727] [INFO]: [WorldGen] Removed features from Biome minecraft:savanna_plateau:
+[07:52:39.727] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.728] [INFO]: [WorldGen] Removed features from Biome terralith:savanna_slopes:
+[07:52:39.730] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.731] [INFO]: [WorldGen] Removed features from Biome terralith:scarlet_mountains:
+[07:52:39.731] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.732] [INFO]: [WorldGen] Removed features from Biome terralith:shield:
+[07:52:39.733] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.733] [INFO]: [WorldGen] Removed features from Biome terralith:shield_clearing:
+[07:52:39.734] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.735] [INFO]: [WorldGen] Removed features from Biome terralith:shrubland:
+[07:52:39.735] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.738] [INFO]: [WorldGen] Removed features from Biome terralith:siberian_grove:
+[07:52:39.739] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.740] [INFO]: [WorldGen] Removed features from Biome terralith:siberian_taiga:
+[07:52:39.740] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.741] [INFO]: [WorldGen] Removed features from Biome terralith:skylands_autumn:
+[07:52:39.741] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.742] [INFO]: [WorldGen] Removed features from Biome terralith:skylands_spring:
+[07:52:39.743] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.743] [INFO]: [WorldGen] Removed features from Biome terralith:skylands_summer:
+[07:52:39.744] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.744] [INFO]: [WorldGen] Removed features from Biome terralith:skylands_winter:
+[07:52:39.745] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.747] [INFO]: [WorldGen] Removed features from Biome terralith:snowy_badlands:
+[07:52:39.747] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.748] [INFO]: [WorldGen] Removed features from Biome minecraft:snowy_beach:
+[07:52:39.749] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.750] [INFO]: [WorldGen] Removed features from Biome terralith:snowy_cherry_grove:
+[07:52:39.750] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.752] [INFO]: [WorldGen] Removed features from Biome terralith:snowy_maple_forest:
+[07:52:39.753] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.755] [INFO]: [WorldGen] Removed features from Biome minecraft:snowy_plains:
+[07:52:39.755] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.758] [INFO]: [WorldGen] Removed features from Biome terralith:snowy_shield:
+[07:52:39.758] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.760] [INFO]: [WorldGen] Removed features from Biome minecraft:snowy_slopes:
+[07:52:39.761] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.762] [INFO]: [WorldGen] Removed features from Biome minecraft:snowy_taiga:
+[07:52:39.764] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.765] [INFO]: [WorldGen] Removed features from Biome minecraft:sparse_jungle:
+[07:52:39.765] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.766] [INFO]: [WorldGen] Removed features from Biome terralith:steppe:
+[07:52:39.767] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.770] [INFO]: [WorldGen] Removed features from Biome minecraft:stony_peaks:
+[07:52:39.770] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.771] [INFO]: [WorldGen] Removed features from Biome minecraft:stony_shore:
+[07:52:39.772] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.773] [INFO]: [WorldGen] Removed features from Biome terralith:stony_spires:
+[07:52:39.773] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.777] [INFO]: [WorldGen] Removed features from Biome minecraft:sunflower_plains:
+[07:52:39.777] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.778] [INFO]: [WorldGen] Removed features from Biome minecraft:swamp:
+[07:52:39.779] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.779] [INFO]: [WorldGen] Removed features from Biome minecraft:taiga:
+[07:52:39.780] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.781] [INFO]: [WorldGen] Removed features from Biome terralith:temperate_highlands:
+[07:52:39.781] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.783] [INFO]: [WorldGen] Removed features from Biome terralith:tropical_jungle:
+[07:52:39.783] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.784] [INFO]: [WorldGen] Removed features from Biome terralith:valley_clearing:
+[07:52:39.784] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.786] [INFO]: [WorldGen] Removed features from Biome terralith:volcanic_crater:
+[07:52:39.786] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.788] [INFO]: [WorldGen] Removed features from Biome terralith:volcanic_peaks:
+[07:52:39.789] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.789] [INFO]: [WorldGen] Removed features from Biome minecraft:warm_ocean:
+[07:52:39.790] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.791] [INFO]: [WorldGen] Removed features from Biome terralith:warm_river:
+[07:52:39.791] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.795] [INFO]: [WorldGen] Removed features from Biome terralith:warped_mesa:
+[07:52:39.795] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.796] [INFO]: [WorldGen] Removed features from Biome terralith:white_cliffs:
+[07:52:39.796] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.800] [INFO]: [WorldGen] Removed features from Biome terralith:white_mesa:
+[07:52:39.801] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.802] [INFO]: [WorldGen] Removed features from Biome minecraft:windswept_forest:
+[07:52:39.802] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.806] [INFO]: [WorldGen] Removed features from Biome minecraft:windswept_gravelly_hills:
+[07:52:39.808] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.814] [INFO]: [WorldGen] Removed features from Biome minecraft:windswept_hills:
+[07:52:39.815] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.817] [INFO]: [WorldGen] Removed features from Biome minecraft:windswept_savanna:
+[07:52:39.818] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.819] [INFO]: [WorldGen] Removed features from Biome terralith:windswept_spires:
+[07:52:39.819] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.820] [INFO]: [WorldGen] Removed features from Biome terralith:wintry_forest:
+[07:52:39.820] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.823] [INFO]: [WorldGen] Removed features from Biome terralith:wintry_lowlands:
+[07:52:39.824] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.826] [INFO]: [WorldGen] Removed features from Biome minecraft:wooded_badlands:
+[07:52:39.827] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.831] [INFO]: [WorldGen] Removed features from Biome terralith:yellowstone:
+[07:52:39.832] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.835] [INFO]: [WorldGen] Removed features from Biome terralith:yosemite_cliffs:
+[07:52:39.836] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
+[07:52:39.838] [INFO]: [WorldGen] Removed features from Biome terralith:yosemite_lowlands:
+[07:52:39.838] [INFO]: [WorldGen]	underground_ores: malum:ore_natural_quartz, oritech:ore_nickel, bigreactors:yellorite_ore, bigreactors:yellorite_deepslate_ore
